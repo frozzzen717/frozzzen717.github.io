@@ -252,12 +252,12 @@ a {
  
 @media only screen  and (min-width: 1480px) {
 	.content { 
-		height:2450px;
+		height:2650px;
 	}
 	.description {
 		font-size:35px;
 	}
 	.description_block  {
-		height: 2200px;
+		height: 2450px;
 	}
 }
